@@ -27,4 +27,5 @@
 
 1. Клонируйте репозиторий:
    ```bash
+   git clone https://github.com/Spy230/DATA-STRUCTURE-ANALYSIS/tree/master
   
