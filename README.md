@@ -20,7 +20,7 @@
  
 
 ## Скриншоты
-  ![Uploading image.png…]()
+ ![image](https://github.com/user-attachments/assets/5a6c4785-470b-4447-bb52-d9403df3de97)
 
  
 ## Установка и Запуск
